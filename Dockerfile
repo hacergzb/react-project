@@ -18,4 +18,4 @@ CMD ["npm", "run", "build"]
 
 # docker build -t demo-for-devops .
 
-# docker run -p 3000:3000 demo-for-devops
+# docker run -p 3000:3000 demo-for-devops 
