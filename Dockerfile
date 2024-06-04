@@ -18,5 +18,5 @@ CMD ["npm", "run", "build"]
 
 # docker build -t demo-for-devops .
 
-# docker run -p 3000:3000 demo-for-devops 
-# docker run -p 3000:3000 -p 50000:50000 jenkins/jenkins:lts
+# docker run -p 8080:8080 demo-for-devops 
+# docker run -p 8080:8080 -p 50000:50000 jenkins/jenkins:lts
